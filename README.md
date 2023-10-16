@@ -7,3 +7,5 @@ En este repositorio se ha llevado a cabo el analisis de los datos recopilador me
 - BeautifulSoup
 
 De los datos encontrados se ha presentado un DataFrame con el nombre, enlace web a su imagen y descripción, para posteriormente añadirle la imagen correspondiente a cada uno de ellos y tener todo implementado dentro del DataFrame resultante.
+
+De esta manera, hemos practicado y afianzado conocimientos sobre la metria vista anteriormente durante las clases de teoría.
