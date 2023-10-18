@@ -8,7 +8,7 @@ La idea era conseguir una tabla donde tuvieramos el nombre, una descripción del
 
 ## Herramientas empleadas
 
-Se han usado las siguientes librerías: 
+Se ha trabajado sobre VS Code a través un Jupyter Notebook y se han usado las siguientes librerías: 
 - requests
 - Bs4
 - Pandas
