@@ -3,8 +3,8 @@
  
 ## Objetivo
 
-En este repositorio se ha llevado a cabo el analisis de los datos recopilados mediante técnicas de Web Scrapping relativos a los actores españoles encontrados en la web https://www.imdb.com/?ref_=nv_home. 
-La idea era conseguir una tabla donde tuvieramos el nombre, una descripción del mismo y su imagen.
+En este repositorio se ha llevado a cabo el análisis de los datos recopilados mediante técnicas de Web Scrapping relativos a los actores españoles encontrados en la web https://www.imdb.com/?ref_=nv_home. 
+La idea era conseguir una tabla donde tuviéramos el nombre, una descripción del mismo y su imagen.
 
 ## Herramientas empleadas
 
